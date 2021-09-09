@@ -21,6 +21,7 @@
     * If using a filter when sampling, use a filter when preparing the field blank.
 3. Close the sample bottle (see Figure 1), making sure that the cap is tightened.
     > ![Bottleware](bottleware.jpg)
+    > 
     > Figure 1: Sampling bottleware as sold by [Thermo Fisher Scientific](https://www.thermofisher.com/order/catalog/product/N319-0125#/N319-0125)
 4. Remove the disposable gloves.
 5. Prepare a label with the client name, date and time, sample ID, sampler, and laboratory analysis.
@@ -31,5 +32,6 @@
 8. Place the bagged sample bottle inside the iced cooler.
 9. Fill out the COC (example seen in Figure 2) with sample details.
     > ![COC](chain.jpg)
+    > 
     > Figure 2: Example COC prepared by [Golder Associates, Inc](https://www4.des.state.nh.us/IISProxy/IISProxy.dll?ContentId=4771881).
 10. At the end of the day, return the field blank with the environmental samples and COC to the laboratory for analysis.
