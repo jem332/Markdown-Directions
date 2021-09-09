@@ -2,12 +2,12 @@
  # How to Collect a Field Blank
  Field blanks are one type of artificial sample used for quality assurance and quality control when conducting environmental sampling. Their purpose is to indicate any contamination originating from transport, handling, or field conditions. The project proposal will specify the number of field blanks to sample. Contact your PM with any questions.
  ## Required Equiment
-##### Staff Provided Equipment:
+### Staff Provided Equipment:
  - Marker or pen
 - Disposable gloves
 - Ice
 
-##### Laboratory Provided Equipment:
+### Laboratory Provided Equipment:
 - Deionized (DI) water 
 - Sample bottleware and label
 - Chain of Custody (COC)
@@ -30,7 +30,7 @@
 6. Apply the label to the sampling bottle.
 7. Place the sampling bottle inside a sample bag and zip shut.
 8. Place the bagged sample bottle inside the iced cooler.
-9. Fill out the COC (example seen in Figure 2) with sample details.
+9. Fill out the COC (see Figure 2) with sample details.
     > ![COC](chain.jpg)
     > 
     > Figure 2: Example COC prepared by [Golder Associates, Inc](https://www4.des.state.nh.us/IISProxy/IISProxy.dll?ContentId=4771881).
