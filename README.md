@@ -30,6 +30,6 @@
 7. Place the sampling bottle inside a sample bag and zip shut.
 8. Place the bagged sample bottle inside the iced cooler.
 9. Fill out the COC (example seen in Figure 2) with sample details.
-    > ![COC](coc.jpg)
+    > ![COC](chain.jpg)
     > Figure 2: Example COC prepared by [Golder Associates, Inc](https://www4.des.state.nh.us/IISProxy/IISProxy.dll?ContentId=4771881).
 10. At the end of the day, return the field blank with the environmental samples and COC to the laboratory for analysis.
