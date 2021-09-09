@@ -1,7 +1,7 @@
 [//]: # (Audience: entry level environmental staff conducting field sampling. They will be familiar with how to conduct sampling, the purpose of sampling, and laboratory standards like COCs. This is designed to be a general guide--specifics that may vary depending on the company, project, or laboratory are not detailed. Instead, this guide is intended to follow general industry practices.)
  # How to Collect a Field Blank
  Field blanks are one type of artificial sample used for quality assurance and quality control when conducting environmental sampling. Their purpose is to indicate any contamination originating from transport, handling, or field conditions. The project proposal will specify the number of field blanks to sample. Contact your PM with any questions.
- ## Required Equiment
+ ## Required Equipment
 ### Staff Provided Equipment:
  - Marker or pen
 - Disposable gloves
@@ -16,7 +16,7 @@
 
 ## Steps
 1. Put on the disposable gloves.
-2. Pour the DI water directly into the sample bottle and fill to required amount. 
+2. Pour the DI water directly into the sample bottle and fill to the required amount. 
     * Ensure the DI water does not come into contact with any field soil or water.
     * If using a filter when sampling, use a filter when preparing the field blank.
 3. Close the sample bottle (see Figure 1), making sure that the cap is tightened.
